@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>themes on grg909</title>
-    <link>http://grg909.github.io/tags/themes/</link>
+    <link>https://grg909.github.io/tags/themes/</link>
     <description>Recent content in themes on grg909</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright grg909 2019-2020</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://grg909.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grg909.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://grg909.github.io/posts/post-8/</link>
+      <link>https://grg909.github.io/posts/post-8/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://grg909.github.io/posts/post-8/</guid>
+      <guid>https://grg909.github.io/posts/post-8/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
