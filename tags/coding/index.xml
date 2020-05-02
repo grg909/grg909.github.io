@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on grg909</title>
+    <link>https://grg909.github.io/tags/coding/</link>
+    <description>Recent content in coding on grg909</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright grg909 2019-2020</copyright>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grg909.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tech Lead给年轻程序员的tips</title>
+      <link>https://grg909.github.io/posts/post-10/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://grg909.github.io/posts/post-10/</guid>
+      <description>Summary  Don&amp;rsquo;t try to learn everything. (The industry changes quickly.) All code is garbage. (Don&amp;rsquo;t let the perfect be the enemy of the good.</description>
+    </item>
+    
+  </channel>
+</rss>
